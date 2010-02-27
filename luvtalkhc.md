@@ -201,7 +201,7 @@ Workflow
 
 #### From paper to digital
 
-![Marquis of Hastings conduct record](../images/conduct.png)
+![Marquis of Hastings conduct record](images/conduct.png)
 
 #### Screenshot: Index record
 
