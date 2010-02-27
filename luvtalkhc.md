@@ -37,10 +37,6 @@ Woolwich 24/aug/1821 to Hobart 15/dec/1821 -- 113 days at sea
 
 Transportation period, 1803-1853
 
-~ 13,000 female convicts
-
-~ 25,000 male convicts
-
 ~ 1 million rows of data
 
 Quantifiable data: conduct registers, BDM...
@@ -56,32 +52,6 @@ Links with genealogists for lives of convicts and their families.
 #### The 'factory plan'
 
 ![factory](images/factory33.png)
-
-#### The Founders and Survivors project
-
-![logo](../images/logo.jpg)
-
-Transportation of convicts to Van Diemen's Land, 1803-1853
-
-and their impact on modern Australia
-
-#### Databases: From paper to digital
-
-![Marquis of Hastings conduct record](../images/conduct.png)
-
-#### What we have done
-
-~ 40,000 convicts
-
-~ 1 million rows of data
-
-Collaboration: Submitting convict ancestors
-
-#### What we hope to do
-
-Digitising historical sources
-
-Collaboration: Correcting transcriptions
 
 #### Problems/challenges
 
@@ -217,15 +187,7 @@ Dialogue
 
 Public participation
 
-## Why Drupal?
-
-#### Free
-
-Values: free, open
-
-Low cost
-
-#### Web framework
+#### Why Drupal?
 
 Modular
 
@@ -235,11 +197,91 @@ Define user roles
 
 Workflow
 
-#### Why *Drupal*?
+## Data migration
 
-Decision up to one developer
+#### From paper to digital
 
-Exposure to Drupal on many other sites
+![Marquis of Hastings conduct record](../images/conduct.png)
+
+#### Screenshot: Index record
+
+TODO
+
+#### Index data
+
+Access --> Excel --> CSV
+
+--> Drupal?
+
+Database on the web
+
+#### Content Construction Kit
+
+TODO URL
+
+Define your own data structures in Drupal
+
+TODO screenshot
+
+#### Rules
+
+<http://drupal.org/project/rules>
+
+More powerful than core Trigger and Action modules
+
+Generate a title for each node
+
+`{index number} | {convict name} ({ship name})`
+
+#### Views
+
+TODO URL
+
+Define your own views of content
+
+#### Table Wizard
+
+<http://drupal.org/project/tw>
+
+Expose a MySQL table or CSV file to Views
+
+#### Table analysis
+
+TODO local copy of Skitch screenshot
+
+http://img.skitch.com/20100217-q5fi5t93y2nnr6p6jr3ks4isae.jpg
+
+#### Migrate
+
+<http://drupal.org/project/migrate>
+
+Map structure of external table to a Drupal data structure
+
+Migrate Extras <http://drupal.org/project/migrate_extras> to migrate to CCK fields
+
+#### Content set
+
+TODO local copy of Skitch screenshot
+
+http://img.skitch.com/20100217-mr3kkyq8gqmg4wumnqw844a387.jpg
+
+#### Migrate dashboard
+
+TODO local copy of Skitch screenshot
+
+http://img.skitch.com/20100217-t937n4rq5tqx1iqqxhdqne5gn.jpg
+
+#### Drush
+
+Web-based dashboard good for testing on small samples
+
+Drush: the Drupal Shell <http://drupal.org/project/drush>
+
+(out of memory issues)
+
+Run `drush migrate-import {content set}` from cron
+
+Approx. one week to migrate ~ 80,000 records
 
 ## Challenges
 
@@ -312,8 +354,6 @@ Mapping Our Anzacs <http://mappingouranzacs.naa.gov.au/>
 Australian Newspapers (National Library) <http://newspapers.nla.gov.au/>
 
 Essays in Humanities Computing <http://www.digitalhumanities.org/Essays/>
-
-## Data migration
 
 #### Questions/advice?
 
