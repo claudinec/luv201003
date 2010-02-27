@@ -50,12 +50,6 @@ Links with genealogists for lives of convicts and their families.
 
 ![factory](images/factory33.png)
 
-#### Problems/challenges
-
-'Amateur' developer
-
-Isolation
-
 ## Humanities computing
 
 #### 'Humanities computing'
@@ -88,13 +82,13 @@ Virgil's *Aeneid*
 
 ![Aeneid](images/aeneid60.png)
 
-#### Literary and linguistic applications
+#### 'Libraries': Literary and linguistic applications
 
 Index Thomisticus (1946)
 
 Perseus
 
-#### Historical applications
+#### 'Archives': Historical applications
 
 Digitisation
 
@@ -162,15 +156,11 @@ Mutual support
 
 Don’t reinvent the wheel
 
-#### Using and adapting tools
-
-e.g. TEI, GEDCOM
+Using and adapting tools
 
 #### Access
 
 Make archival sources and research results accessible to general public
-
-e.g. online museums
 
 Sharing data with other researchers
 
@@ -220,19 +210,15 @@ Career progression
 
 Where do humanities computing projects belong?
 
-#### Resources and evaluation
-
-Resource needs and output not like in traditional academic projects
-
-In: computer resources, not just research time
-
-Out: software, web, data, not just articles
-
 ## Data migration
 
 #### From paper to digital
 
 ![Marquis of Hastings conduct record](images/conduct.png)
+
+#### Screenshot: Index record
+
+TODO
 
 #### Why Drupal?
 
@@ -243,10 +229,6 @@ Define our own content types and views
 Define user roles
 
 Workflow
-
-#### Screenshot: Index record
-
-TODO
 
 #### Index data
 
@@ -324,15 +306,14 @@ Run `drush migrate-import {content set}` from cron
 
 Approx. one week to migrate ~ 80,000 records
 
-## Conclusion
+## Where to from here?
 
-#### Evolving field
+#### Next stage of project
 
-Challenging
+(manually) linking official index with public submissions
 
-Exciting
-
-Where to from here?
+* later life stories
+* WWI links
 
 #### Links
 
@@ -359,5 +340,3 @@ Essays in Humanities Computing <http://www.digitalhumanities.org/Essays/>
 <http://www.foundersandsurvivors.org/>
 
 <http://www.slideshare.net/claudinec>
-
-`claudine@foundersandsurvivors.org`

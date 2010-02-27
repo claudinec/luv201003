@@ -40,4 +40,3 @@ copy of index: table wizard, migrate
 
 in progress: (manually) linking official index with public
 submissions (later life stories, WWI links)
-

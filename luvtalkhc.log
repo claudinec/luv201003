@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  27 FEB 2010 17:20
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  27 FEB 2010 17:50
 entering extended mode
  %&-line parsing enabled.
 **luvtalkhc.tex
@@ -957,7 +957,7 @@ File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ] [8
 
 ]
-<images/factory33.png, id=276, 325.6968pt x 244.2726pt>
+<images/factory33.png, id=275, 325.6968pt x 244.2726pt>
 File: images/factory33.png Graphic file (type png)
 
 <use images/factory33.png> [9
@@ -967,96 +967,96 @@ File: images/factory33.png Graphic file (type png)
 ]
 [11
 
-] [12
-
-] <images/valley.png, id=386, 679.53876pt x 602.25pt>
+] <images/valley.png, id=359, 679.53876pt x 602.25pt>
 File: images/valley.png Graphic file (type png)
 
-<use images/valley.png> [13
+<use images/valley.png> [12
 
  <./images/valley.png (PNG copy)>]pdfTeX warning (ext4): destination with the s
 ame identifier (name{thevalleyoftheshadow}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.291 \end{frame}
-                  <images/battlemap.png, id=416, 910.40125pt x 602.25pt>
+l.277 \end{frame}
+                  <images/battlemap.png, id=388, 910.40125pt x 602.25pt>
 File: images/battlemap.png Graphic file (type png)
 
-<use images/battlemap.png> [14
+<use images/battlemap.png> [13
 
  <./images/battlemap.png>]
-<images/oldbailey.png, id=445, 634.37pt x 602.25pt>
+<images/oldbailey.png, id=418, 634.37pt x 602.25pt>
 File: images/oldbailey.png Graphic file (type png)
  <use images/oldbailey.png>
-[15
+[14
 
  <./images/oldbailey.png (PNG copy)>]
-<images/aeneid60.png, id=474, 894.34125pt x 466.74374pt>
+<images/aeneid60.png, id=447, 894.34125pt x 466.74374pt>
 File: images/aeneid60.png Graphic file (type png)
 
 <use images/aeneid60.png>
-Overfull \vbox (13.70613pt too high) detected at line 328
+Overfull \vbox (13.70613pt too high) detected at line 314
  []
 
-[16
+[15
 
- <./images/aeneid60.png (PNG copy)>] [17
+ <./images/aeneid60.png (PNG copy)>] [16
+
+] [17
 
 ] [18
 
-] [19
-
 ]
-<images/police.png, id=586, 309.3156pt x 211.0284pt>
+<images/police.png, id=558, 309.3156pt x 211.0284pt>
 File: images/police.png Graphic file (type png)
  <use images/police.png>
-[20
+[19
 
  <./images/police.png (PNG copy)>]
-<images/journal.png, id=615, 517.4532pt x 446.1468pt>
+<images/journal.png, id=588, 517.4532pt x 446.1468pt>
 File: images/journal.png Graphic file (type png)
  <use images/journal.png>
-[21
+[20
 
  <./images/journal.png (PNG copy)>]pdfTeX warning (ext4): destination with the 
 same identifier (name{conductregisters}) has been already used, duplicate ignor
 ed
 <to be read again> 
                    \relax 
-l.427 \end{frame}
-                  <images/conduct.png, id=644, 524.6802pt x 274.1442pt>
+l.413 \end{frame}
+                  <images/conduct.png, id=617, 524.6802pt x 274.1442pt>
 File: images/conduct.png Graphic file (type png)
 
-<use images/conduct.png> [22
+<use images/conduct.png> [21
 
  <./images/conduct.png (PNG copy)>]
-<images/deathrates.png, id=672, 313.6518pt x 219.7008pt>
+<images/deathrates.png, id=645, 313.6518pt x 219.7008pt>
 File: images/deathrates.png Graphic file (type png)
 
-<use images/deathrates.png> [23
+<use images/deathrates.png> [22
 
  <./images/deathrates.png (PNG copy)>]
-<images/mapping.png, id=701, 851.18pt x 650.43pt>
+<images/mapping.png, id=674, 851.18pt x 650.43pt>
 File: images/mapping.png Graphic file (type png)
  <use images/mapping.png>
-[24
+[23
 
- <./images/mapping.png>] <images/htg.png, id=730, 903.375pt x 551.05875pt>
+ <./images/mapping.png>] <images/htg.png, id=703, 903.375pt x 551.05875pt>
 File: images/htg.png Graphic file (type png)
 
-<use images/htg.png> [25
+<use images/htg.png> [24
 
- <./images/htg.png (PNG copy)>] [26
+ <./images/htg.png (PNG copy)>] [25
+
+] [26
 
 ] [27
 
 ] [28
 
-] [29
-
 ]
-[30
+[29
+
+] [30
 
 ] [31
 
@@ -1064,40 +1064,40 @@ File: images/htg.png Graphic file (type png)
 
 ] [33
 
-] [34
+]pdfTeX warning (ext4): destination with the same identifier (name{marquisofhas
+tingsconductrecord}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.656 \end{frame}
+                 
+File: images/conduct.png Graphic file (type png)
+ <use images/conduct.png> [34
 
 ] [35
 
 ] [36
 
-]pdfTeX warning (ext4): destination with the same identifier (name{marquisofhas
-tingsconductrecord}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.698 \end{frame}
-                 
-File: images/conduct.png Graphic file (type png)
- <use images/conduct.png> [37
+] [37
 
 ] [38
 
-] [39
+]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 741
+.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 741.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 741.
+
+[39
 
 ] [40
 
 ] [41
 
-]
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 783
-.
-LaTeX Font Info:    No file OMScmtt.fd. on input line 783.
-
-
-LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 783.
-
-[42
+] [42
 
 ] [43
 
@@ -1111,20 +1111,14 @@ LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 
 ] [48
 
-] [49
-
-] [50
-
-] [51
-
 ]pdfTeX warning (ext4): destination with the same identifier (name{links}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.953 \end{frame}
-                  [52
+l.913 \end{frame}
+                  [49
 
-] [53
+] [50
 
 ]
 \tf@nav=\write5
@@ -1149,10 +1143,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13453 strings out of 493848
- 240294 string characters out of 3149206
+ 13435 strings out of 493848
+ 240103 string characters out of 3149206
  314752 words of memory out of 3000000
- 16168 multiletter control sequences out of 15000+200000
+ 16159 multiletter control sequences out of 15000+200000
  11373 words of font info for 42 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,16n,57p,317b,553s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1165,9 +1159,9 @@ usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on luvtalkhc.pdf (53 pages, 6156204 bytes).
+Output written on luvtalkhc.pdf (50 pages, 6138968 bytes).
 PDF statistics:
- 1604 PDF objects out of 1728 (max. 8388607)
- 175 named destinations out of 1000 (max. 500000)
+ 1521 PDF objects out of 1728 (max. 8388607)
+ 166 named destinations out of 1000 (max. 500000)
  180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
