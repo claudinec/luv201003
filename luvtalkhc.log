@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  27 FEB 2010 17:09
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  27 FEB 2010 17:20
 entering extended mode
  %&-line parsing enabled.
 **luvtalkhc.tex
@@ -735,7 +735,12 @@ Package: beamerouterthemeinfolines 2007/01/28  (rcs-revision 1.9)
 (/usr/local/texlive/2009/texmf-dist/tex/latex/beamer/themes/color/beamercolorth
 emebeaver.sty
 Package: beamercolorthemebeaver 2007/01/28  (rcs-revision 1.2)
-)) (./luvtalkhc.aux
+))
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\kernel@ifnextchar' on input line 75.
+
+(./luvtalkhc.aux
 
 LaTeX Warning: Label `journal' multiply defined.
 
@@ -757,20 +762,20 @@ LaTeX Warning: Label `links' multiply defined.
 )
 \openout1 = `luvtalkhc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
-LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
  (/usr/local/texlive/2009/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count159
@@ -825,7 +830,7 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-Package hyperref Info: Link coloring OFF on input line 76.
+Package hyperref Info: Link coloring OFF on input line 75.
 (/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
@@ -834,8 +839,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count164
 )
-LaTeX Info: Redefining \ref on input line 76.
-LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
 
 (./luvtalkhc.out) (./luvtalkhc.out)
 \@outlinefile=\write4
@@ -843,550 +848,283 @@ LaTeX Info: Redefining \pageref on input line 76.
 
 \AtBeginShipoutBox=\box53
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 76.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 76.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 75.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 76.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 76.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 76.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 76.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 76.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 76.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 76.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 76.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 76.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 76.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 76.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 75.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 76.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 76.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 76.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 75.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 76.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 76.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 76.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 76.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 76.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 76.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 75.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/translator/translator-theorem-dic
 tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./luvtalkhc.nav)
-Overfull \hbox (1.83401pt too wide) in paragraph at lines 76--76
- [][][][]  
- []
-
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/n' in size <4> not available
-(Font)              size <5> substituted on input line 77.
+(Font)              size <5> substituted on input line 76.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
-(Font)              size <5> substituted on input line 77.
-
-
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
+(Font)              size <5> substituted on input line 76.
 
 [1
 
 {/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
-
 [2
 
-]
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[3
-
-] <images/claudine33.png, id=131, 640.3925pt x 438.63875pt>
+] <images/claudine33.png, id=104, 640.3925pt x 438.63875pt>
 File: images/claudine33.png Graphic file (type png)
 
-<use images/claudine33.png>
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[4
+<use images/claudine33.png> [3
 
 pdfTeX warning (ext4): destination with the same identifier (name{journal}) has
  been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.115 \end{frame}
+l.110 \end{frame}
                   <./images/claudine33.png>]
-<images/Astill-cr.jpg, id=161, 719.68875pt x 298.11375pt>
+<images/Astill-cr.jpg, id=134, 719.68875pt x 298.11375pt>
 File: images/Astill-cr.jpg Graphic file (type jpg)
 
-<use images/Astill-cr.jpg>
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[5
+<use images/Astill-cr.jpg> [4
 
  <./images/Astill-cr.jpg>]
-<images/Astill-aot.png, id=190, 642.4pt x 522.95375pt>
+<images/Astill-aot.png, id=163, 642.4pt x 522.95375pt>
 File: images/Astill-aot.png Graphic file (type png)
 
-<use images/Astill-aot.png>
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[6
+<use images/Astill-aot.png> [5
 
  <./images/Astill-aot.png (PNG copy)>]
-<images/logo.jpg, id=219, 903.375pt x 186.6975pt>
+<images/logo.jpg, id=192, 903.375pt x 186.6975pt>
 File: images/logo.jpg Graphic file (type jpg)
  <use images/logo.jpg>
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[7
+[6
 
 pdfTeX warning (ext4): destination with the same identifier (name{foundersandsu
 rvivors}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.166 \end{frame}
+l.161 \end{frame}
                   <./images/logo.jpg>]
-LaTeX Font Info:    Try loading font information for U+msa on input line 186.
+LaTeX Font Info:    Try loading font information for U+msa on input line 181.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 186.
+LaTeX Font Info:    Try loading font information for U+msb on input line 181.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
-)
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
+) [7
 
-[8
+] [8
 
 ]
-Overfull \hbox (1.83401pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[9
-
-] <images/factory33.png, id=303, 325.6968pt x 244.2726pt>
+<images/factory33.png, id=276, 325.6968pt x 244.2726pt>
 File: images/factory33.png Graphic file (type png)
 
-<use images/factory33.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+<use images/factory33.png> [9
 
-[10
+ <./images/factory33.png (PNG copy)>] [10
 
- <./images/factory33.png (PNG copy)>]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
+]
 [11
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [12
 
-[12
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[13
-
-] <images/valley.png, id=414, 679.53876pt x 602.25pt>
+] <images/valley.png, id=386, 679.53876pt x 602.25pt>
 File: images/valley.png Graphic file (type png)
 
-<use images/valley.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[14
+<use images/valley.png> [13
 
  <./images/valley.png (PNG copy)>]pdfTeX warning (ext4): destination with the s
 ame identifier (name{thevalleyoftheshadow}) has been already used, duplicate ig
 nored
 <to be read again> 
                    \relax 
-l.296 \end{frame}
-                  <images/battlemap.png, id=443, 910.40125pt x 602.25pt>
+l.291 \end{frame}
+                  <images/battlemap.png, id=416, 910.40125pt x 602.25pt>
 File: images/battlemap.png Graphic file (type png)
 
-<use images/battlemap.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[15
+<use images/battlemap.png> [14
 
  <./images/battlemap.png>]
-<images/oldbailey.png, id=472, 634.37pt x 602.25pt>
+<images/oldbailey.png, id=445, 634.37pt x 602.25pt>
 File: images/oldbailey.png Graphic file (type png)
  <use images/oldbailey.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
+[15
+
+ <./images/oldbailey.png (PNG copy)>]
+<images/aeneid60.png, id=474, 894.34125pt x 466.74374pt>
+File: images/aeneid60.png Graphic file (type png)
+
+<use images/aeneid60.png>
+Overfull \vbox (13.70613pt too high) detected at line 328
  []
 
 [16
 
- <./images/oldbailey.png (PNG copy)>]
-<images/aeneid60.png, id=501, 894.34125pt x 466.74374pt>
-File: images/aeneid60.png Graphic file (type png)
+ <./images/aeneid60.png (PNG copy)>] [17
 
-<use images/aeneid60.png>
-Overfull \vbox (13.70613pt too high) detected at line 333
- []
+] [18
 
-
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[17
-
- <./images/aeneid60.png (PNG copy)>]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[18
+] [19
 
 ]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[19
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
+<images/police.png, id=586, 309.3156pt x 211.0284pt>
+File: images/police.png Graphic file (type png)
+ <use images/police.png>
 [20
 
-] <images/police.png, id=613, 309.3156pt x 211.0284pt>
-File: images/police.png Graphic file (type png)
-
-<use images/police.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[21
-
  <./images/police.png (PNG copy)>]
-<images/journal.png, id=642, 517.4532pt x 446.1468pt>
+<images/journal.png, id=615, 517.4532pt x 446.1468pt>
 File: images/journal.png Graphic file (type png)
  <use images/journal.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[22
+[21
 
  <./images/journal.png (PNG copy)>]pdfTeX warning (ext4): destination with the 
 same identifier (name{conductregisters}) has been already used, duplicate ignor
 ed
 <to be read again> 
                    \relax 
-l.432 \end{frame}
-                  <images/conduct.png, id=671, 524.6802pt x 274.1442pt>
+l.427 \end{frame}
+                  <images/conduct.png, id=644, 524.6802pt x 274.1442pt>
 File: images/conduct.png Graphic file (type png)
 
-<use images/conduct.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[23
+<use images/conduct.png> [22
 
  <./images/conduct.png (PNG copy)>]
-<images/deathrates.png, id=699, 313.6518pt x 219.7008pt>
+<images/deathrates.png, id=672, 313.6518pt x 219.7008pt>
 File: images/deathrates.png Graphic file (type png)
 
-<use images/deathrates.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[24
+<use images/deathrates.png> [23
 
  <./images/deathrates.png (PNG copy)>]
-<images/mapping.png, id=728, 851.18pt x 650.43pt>
+<images/mapping.png, id=701, 851.18pt x 650.43pt>
 File: images/mapping.png Graphic file (type png)
  <use images/mapping.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+[24
 
-[25
-
- <./images/mapping.png>] <images/htg.png, id=758, 903.375pt x 551.05875pt>
+ <./images/mapping.png>] <images/htg.png, id=730, 903.375pt x 551.05875pt>
 File: images/htg.png Graphic file (type png)
 
-<use images/htg.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+<use images/htg.png> [25
 
-[26
+ <./images/htg.png (PNG copy)>] [26
 
- <./images/htg.png (PNG copy)>]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [27
 
-[27
+] [28
+
+] [29
 
 ]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[28
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[29
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
 [30
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [31
 
-[31
+] [32
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [33
 
-[32
+] [34
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [35
 
-[33
+] [36
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{marquisofhas
 tingsconductrecord}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.632 \end{frame}
+l.698 \end{frame}
                  
 File: images/conduct.png Graphic file (type png)
- <use images/conduct.png>
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+ <use images/conduct.png> [37
 
-[34
+] [38
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [39
 
-[35
+] [40
+
+] [41
 
 ]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[36
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[37
-
-]
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 697
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 783
 .
-LaTeX Font Info:    No file OMScmtt.fd. on input line 697.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 783.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 697.
-
-
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[38
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[39
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[40
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[41
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+(Font)              for symbol `textbraceleft' on input line 783.
 
 [42
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [43
 
-[43
+] [44
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [45
 
-[44
+] [46
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [47
 
-[45
+] [48
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+] [49
 
-[46
+] [50
 
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[47
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[48
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[49
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[50
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[51
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[52
+] [51
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{links}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.955 \end{frame}
-                 
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
+l.953 \end{frame}
+                  [52
 
-[53
-
-]
-Overfull \hbox (5.13403pt too wide) has occurred while \output is active
- [][][][]  
- []
-
-[54
+] [53
 
 ]
 \tf@nav=\write5
@@ -1411,10 +1149,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13487 strings out of 493848
- 241043 string characters out of 3149206
- 314834 words of memory out of 3000000
- 16200 multiletter control sequences out of 15000+200000
+ 13453 strings out of 493848
+ 240294 string characters out of 3149206
+ 314752 words of memory out of 3000000
+ 16168 multiletter control sequences out of 15000+200000
  11373 words of font info for 42 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,16n,57p,317b,553s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1427,9 +1165,9 @@ usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on luvtalkhc.pdf (54 pages, 6162741 bytes).
+Output written on luvtalkhc.pdf (53 pages, 6156204 bytes).
 PDF statistics:
- 1631 PDF objects out of 1728 (max. 8388607)
- 177 named destinations out of 1000 (max. 500000)
+ 1604 PDF objects out of 1728 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
  180 words of extra memory for PDF output out of 10000 (max. 10000000)
 

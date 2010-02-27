@@ -1,5 +1,4 @@
-Title: Humanities computing and Drupal  
-Subtitle: Or, What I did on my holidays  
+Title: Humanities computing  
 Author: Claudine Chionh  
 Affiliation: University of Melbourne  
 Date: 2 March 2010  
