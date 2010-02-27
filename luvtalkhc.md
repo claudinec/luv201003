@@ -7,8 +7,6 @@ Event: LUV meeting
 LaTeX XSLT: beamer  
 Theme: CambridgeUS
 
-# Unlocking the ivory tower
-
 ## Founders and Survivors
 
 #### The *Claudine*
@@ -187,6 +185,56 @@ Dialogue
 
 Public participation
 
+## Challenges
+
+#### The Two Cultures
+
+*The Two Cultures and the Scientific Revolution*
+
+CP Snow, Rede Lecture, 1959
+
+Literature/humanities vs science/tech
+
+#### Many cultures?
+
+Translating between academics, IT professionals, diverse public audience
+
+Different priorities, research questions
+
+#### Geeks and non-geeks
+
+Non-geeks may not understand the values behind FOSS
+
+Technology as magic
+
+#### Where do developers belong?
+
+Identity crisis
+
+'Digital humanities professional'?
+
+Background -- IT or academic?
+
+Autonomy
+
+Career progression
+
+Where do humanities computing projects belong?
+
+#### Resources and evaluation
+
+Resource needs and output not like in traditional academic projects
+
+In: computer resources, not just research time
+
+Out: software, web, data, not just articles
+
+## Data migration
+
+#### From paper to digital
+
+![Marquis of Hastings conduct record](images/conduct.png)
+
 #### Why Drupal?
 
 Modular
@@ -196,12 +244,6 @@ Define our own content types and views
 Define user roles
 
 Workflow
-
-## Data migration
-
-#### From paper to digital
-
-![Marquis of Hastings conduct record](images/conduct.png)
 
 #### Screenshot: Index record
 
@@ -283,49 +325,7 @@ Run `drush migrate-import {content set}` from cron
 
 Approx. one week to migrate ~ 80,000 records
 
-## Challenges
-
-#### The Two Cultures
-
-*The Two Cultures and the Scientific Revolution*
-
-CP Snow, Rede Lecture, 1959
-
-Literature/humanities vs science/tech
-
-#### Many cultures?
-
-Translating between academics, IT professionals, diverse public audience
-
-Different priorities, research questions
-
-#### Geeks and non-geeks
-
-Non-geeks may not understand the values behind FOSS
-
-Technology as magic
-
-#### Where do developers belong?
-
-Identity crisis
-
-'Digital humanities professional'?
-
-Background -- IT or academic?
-
-Autonomy
-
-Career progression
-
-Where do humanities computing projects belong?
-
-#### Resources and evaluation
-
-Resource needs and output not like in traditional academic projects
-
-In: computer resources, not just research time
-
-Out: software, web, data, not just articles
+## Conclusion
 
 #### Evolving field
 
