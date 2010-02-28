@@ -1,7 +1,7 @@
 \beamer@endinputifotherversion {3.07pt}
-\beamer@sectionintoc {1}{Founders and Survivors}{2}{0}{1}
+\beamer@sectionintoc {1}{Founders and Survivors}{3}{0}{1}
 \beamer@sectionintoc {2}{Humanities computing}{10}{0}{2}
-\beamer@sectionintoc {3}{Why FOSS?}{25}{0}{3}
-\beamer@sectionintoc {4}{Challenges}{30}{0}{4}
-\beamer@sectionintoc {5}{Data migration}{34}{0}{5}
-\beamer@sectionintoc {6}{Where to from here?}{47}{0}{6}
+\beamer@sectionintoc {3}{Why FOSS?}{24}{0}{3}
+\beamer@sectionintoc {4}{Challenges}{28}{0}{4}
+\beamer@sectionintoc {5}{Data migration}{32}{0}{5}
+\beamer@sectionintoc {6}{Where to from here?}{46}{0}{6}

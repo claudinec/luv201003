@@ -6,6 +6,18 @@ Event: LUV meeting
 LaTeX XSLT: beamer  
 Theme: CambridgeUS
 
+#### Overview
+
+The Founders and Survivors project
+
+Humanities computing
+
+Why FOSS?
+
+Challenges
+
+Drupal in action: Data migration
+
 ## Founders and Survivors
 
 #### The *Claudine*
@@ -51,10 +63,6 @@ Links with genealogists for lives of convicts and their families.
 ![factory](images/factory33.png)
 
 ## Humanities computing
-
-#### 'Humanities computing'
-
-Or 'digital humanities'?
 
 #### Old questions, new tools?
 
@@ -132,23 +140,11 @@ Linked/cross-referenced presentation of sources
 
 #### Why FOSS?
 
-Use of resources
-
 Community of developers
-
-Using and adapting tools
 
 Access
 
 Values
-
-#### Use of resources
-
-Expenses:
-
-- Processing power
-- Storage
-- Bandwidth
 
 #### Community of developers
 
@@ -211,10 +207,6 @@ Career progression
 Where do humanities computing projects belong?
 
 ## Data migration
-
-#### From paper to digital
-
-![Marquis of Hastings conduct record](images/conduct.png)
 
 #### Screenshot: Index record
 
