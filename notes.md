@@ -30,37 +30,29 @@ Woolwich 24/aug/1821 to Hobart 15/dec/1821 -- 113 days at sea
 
 ![Journal](images/claudine33.png)
 
-----
-
-Journal kept by surgeon: medical and other events
+_Journal kept by surgeon: medical and other events_
 
 #### Conduct registers
 
 ![John Astill](images/Astill-cr.jpg)
 
-----
-
-Carried on ship and continued during sentence: convict's background, offence, trial, sentence, fate as convict
+_Carried on ship and continued during sentence: convict's background, offence, trial, sentence, fate as convict_
 
 #### Archives of Tasmania convict index
 
 ![convict search](images/Astill-aot.png)
 
-----
+_From paper to digital databases_
 
-From paper to digital databases
-
-Images of records; goal: transcribe, expand info available, access online
+_Images of records; goal: transcribe, expand info available, access online_
 
 #### Founders and Survivors
 
 ![Founders and Survivors](images/logo.jpg)
 
-----
+_Collaboration between historians, demographers, epidemiologists... UTas, Unimelb, ANU..._
 
-Collaboration between historians, demographers, epidemiologists... UTas, Unimelb, ANU...
-
-Survivors of convict system --> founders of population
+_Survivors of convict system --> founders of population_
 
 #### Van Diemen’s Land
 
@@ -82,13 +74,11 @@ Links with genealogists for lives of convicts and their families.
 
 ![factory](images/factory33.png)
 
-----
+_Quantitative and text data and images._
 
-Quantitative and text data and images.
+_Separate areas/access for staff, volunteer researchers and public._
 
-Separate areas/access for staff, volunteer researchers and public.
-
-Web system built in Drupal.
+_Web system built in Drupal._
 
 ## Humanities computing
 
@@ -100,19 +90,15 @@ Analyse large[r] amounts of material
 
 Public access and collaboration
 
-----
-
-Following: some examples of humanities computing projects (diversity of sources and presentation)
+_Following: some examples of humanities computing projects (diversity of sources and presentation)_
 
 #### The Valley of the Shadow
 
 ![letter](images/valley.png)
 
-----
+_US Civil War_
 
-US Civil War
-
-Transcriptions, images
+_Transcriptions, images_
 
 #### The Valley of the Shadow
 
@@ -122,9 +108,7 @@ Transcriptions, images
 
 ![Old Bailey](images/oldbailey.png)
 
-----
-
-transcriptions, images, corrections, additions
+_transcriptions, images, corrections, additions_
 
 #### Perseus Digital Library
 
@@ -132,9 +116,7 @@ Virgil's *Aeneid*
 
 ![Aeneid](images/aeneid60.png)
 
-----
-
-translations, literary cross-references
+_translations, literary cross-references_
 
 #### 'Libraries': Literary and linguistic applications
 
@@ -158,9 +140,7 @@ Images
 
 Linked/cross-referenced presentation of sources
 
-----
-
-Examples from FAS and related sources
+_Examples from FAS and related sources_
 
 #### Tasmanian Police Gazette, 1861-1933
 
@@ -178,29 +158,23 @@ Examples from FAS and related sources
 
 ![death rates](images/deathrates.png)
 
-----
-
-analysis from combined sources
+_analysis from combined sources_
 
 #### GIS
 
 ![Mapping our Anzacs](images/mapping.png)
 
-----
+_mapping: geographic links, local, **personal**_
 
-mapping: geographic links, local, **personal**
+_'tribute to people important to you'_
 
-'tribute to people important to you'
-
-demystifying history
+_demystifying history_
 
 #### Collaboration
 
 ![Hobart Town Gazette](images/htg.png)
 
-----
-
-collaborative editing, corrections
+_collaborative editing, corrections_
 
 ## Why FOSS?
 
@@ -220,9 +194,7 @@ Don’t reinvent the wheel
 
 Using and adapting tools
 
-----
-
-developers on humanities computing projects may be isolated and inexperienced
+_developers on humanities computing projects may be isolated and inexperienced_
 
 #### Access
 
@@ -256,9 +228,7 @@ Translating between academics, IT professionals, diverse public audience
 
 Different priorities, research questions
 
-----
-
-history, social sciences, public health, IT, non-tech users...
+_history, social sciences, public health, IT, non-tech users..._
 
 #### Geeks and non-geeks
 
@@ -266,9 +236,7 @@ Non-geeks may not understand the values behind FOSS
 
 Technology as magic
 
-----
-
-colleagues as well as public can provide usability challenges
+_colleagues as well as public can provide usability challenges_
 
 #### Where do developers belong?
 
@@ -290,9 +258,7 @@ Where do humanities computing projects belong?
 
 TODO
 
-----
-
-Drupal and humanities computing in action
+_Drupal and humanities computing in action_
 
 #### Why Drupal?
 
