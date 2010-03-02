@@ -210,7 +210,7 @@ Where do humanities computing projects belong?
 
 #### Screenshot: Index record
 
-TODO
+![Gould](images/27407.png)
 
 #### Why Drupal?
 
@@ -232,11 +232,11 @@ Database on the web
 
 #### Content Construction Kit
 
-TODO URL
+<http://drupal.org/project/cck>
 
 Define your own data structures in Drupal
 
-TODO screenshot
+![convindex](images/convindex.png)
 
 #### Rules
 
@@ -250,7 +250,7 @@ Generate a title for each node
 
 #### Views
 
-TODO URL
+<http://drupal.org/project/views>
 
 Define your own views of content
 
@@ -262,9 +262,7 @@ Expose a MySQL table or CSV file to Views
 
 #### Table analysis
 
-TODO local copy of Skitch screenshot
-
-http://img.skitch.com/20100217-q5fi5t93y2nnr6p6jr3ks4isae.jpg
+![analysis](images/Analysis.png)
 
 #### Migrate
 
@@ -276,15 +274,11 @@ Migrate Extras <http://drupal.org/project/migrate_extras> to migrate to CCK fiel
 
 #### Content set
 
-TODO local copy of Skitch screenshot
-
-http://img.skitch.com/20100217-mr3kkyq8gqmg4wumnqw844a387.jpg
+![migrate content set](images/aiconvindex.png)
 
 #### Migrate dashboard
 
-TODO local copy of Skitch screenshot
-
-http://img.skitch.com/20100217-t937n4rq5tqx1iqqxhdqne5gn.jpg
+![migrate dashboard](images/Migrate.png)
 
 #### Drush
 
