@@ -224,9 +224,7 @@ Workflow
 
 #### Index data
 
-Access --> Excel --> CSV
-
---> Drupal?
+Access --> Excel --> CSV --> Drupal
 
 Database on the web
 

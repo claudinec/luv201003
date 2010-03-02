@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  2 MAR 2010 17:35
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  2 MAR 2010 17:41
 entering extended mode
  %&-line parsing enabled.
 **luvtalkhc.tex
@@ -1076,20 +1076,20 @@ File: images/2218.png Graphic file (type png)
 File: images/convindex.png Graphic file (type png)
 
 <use images/convindex.png>
-Overfull \vbox (37.12337pt too high) detected at line 701
+Overfull \vbox (37.12337pt too high) detected at line 698
  []
 
 [36
 
  <./images/convindex.png (PNG copy)>]
-LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 721
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 718
 .
-LaTeX Font Info:    No file OMScmtt.fd. on input line 721.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 718.
 
 
 LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 721.
+(Font)              for symbol `textbraceleft' on input line 718.
 
 [37
 
@@ -1121,7 +1121,7 @@ ard}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.817 \end{frame}
+l.814 \end{frame}
                   <./images/Migrate.png (PNG copy)>] [44
 
 ] [45
@@ -1132,7 +1132,7 @@ l.817 \end{frame}
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.902 \end{frame}
+l.899 \end{frame}
                   [47
 
 ] [48
@@ -1160,10 +1160,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13457 strings out of 493848
- 240564 string characters out of 3149206
+ 13456 strings out of 493848
+ 240557 string characters out of 3149206
  314752 words of memory out of 3000000
- 16178 multiletter control sequences out of 15000+200000
+ 16177 multiletter control sequences out of 15000+200000
  11373 words of font info for 42 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,16n,57p,317b,553s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1176,7 +1176,7 @@ usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on luvtalkhc.pdf (48 pages, 6519832 bytes).
+Output written on luvtalkhc.pdf (48 pages, 6519824 bytes).
 PDF statistics:
  1478 PDF objects out of 1728 (max. 8388607)
  164 named destinations out of 1000 (max. 500000)
