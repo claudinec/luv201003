@@ -323,6 +323,6 @@ Essays in Humanities Computing <http://www.digitalhumanities.org/Essays/>
 
 #### Questions/advice?
 
-<http://www.foundersandsurvivors.org/>
+<http://claudine.github.com/2010/02/17/drupal-table-wizard-migrate.html>
 
 <http://www.slideshare.net/claudinec>
