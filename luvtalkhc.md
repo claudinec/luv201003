@@ -210,7 +210,7 @@ Where do humanities computing projects belong?
 
 #### Screenshot: Index record
 
-![Gould](images/27407.png)
+![Bailey](images/2218.png)
 
 #### Why Drupal?
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  2 MAR 2010 17:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.12.22)  2 MAR 2010 17:35
 entering extended mode
  %&-line parsing enabled.
 **luvtalkhc.tex
@@ -1062,12 +1062,12 @@ File: images/htg.png Graphic file (type png)
 
 ] [32
 
-] <images/27407.png, id=949, 589.20125pt x 864.22874pt>
-File: images/27407.png Graphic file (type png)
+] <images/2218.png, id=949, 595.22375pt x 867.24pt>
+File: images/2218.png Graphic file (type png)
 
-<use images/27407.png> [33
+<use images/2218.png> [33
 
- <./images/27407.png (PNG copy)>] [34
+ <./images/2218.png (PNG copy)>] [34
 
 ] [35
 
@@ -1160,10 +1160,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 13456 strings out of 493848
- 240560 string characters out of 3149206
+ 13457 strings out of 493848
+ 240564 string characters out of 3149206
  314752 words of memory out of 3000000
- 16177 multiletter control sequences out of 15000+200000
+ 16178 multiletter control sequences out of 15000+200000
  11373 words of font info for 42 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  45i,16n,57p,317b,553s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1176,7 +1176,7 @@ usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></
 usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
 sr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on luvtalkhc.pdf (48 pages, 6519721 bytes).
+Output written on luvtalkhc.pdf (48 pages, 6519832 bytes).
 PDF statistics:
  1478 PDF objects out of 1728 (max. 8388607)
  164 named destinations out of 1000 (max. 500000)
